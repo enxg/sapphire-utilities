@@ -18,16 +18,16 @@
 [![npm](https://img.shields.io/npm/v/@sapphire/embed-jsx?color=crimson&logo=npm&style=flat-square&label=@sapphire/embed-jsx)](https://www.npmjs.com/package/@sapphire/embed-jsx)
 [![npm](https://img.shields.io/npm/v/@sapphire/eslint-config?color=crimson&logo=npm&style=flat-square&label=@sapphire/eslint-config)](https://www.npmjs.com/package/@sapphire/eslint-config)
 [![npm](https://img.shields.io/npm/v/@sapphire/event-iterator?color=crimson&logo=npm&style=flat-square&label=@sapphire/event-iterator)](https://www.npmjs.com/package/@sapphire/event-iterator)
+[![npm](https://img.shields.io/npm/v/@sapphire/phisherman?color=crimson&logo=npm&style=flat-square&label=@sapphire/phisherman)](https://www.npmjs.com/package/@sapphire/phisherman)
 [![npm](https://img.shields.io/npm/v/@sapphire/prettier-config?color=crimson&logo=npm&style=flat-square&label=@sapphire/prettier-config)](https://www.npmjs.com/package/@sapphire/prettier-config)
 [![npm](https://img.shields.io/npm/v/@sapphire/ratelimits?color=crimson&logo=npm&style=flat-square&label=@sapphire/fetch)](https://www.npmjs.com/package/@sapphire/fetch)
 [![npm](https://img.shields.io/npm/v/@sapphire/ratelimits?color=crimson&logo=npm&style=flat-square&label=@sapphire/ratelimits)](https://www.npmjs.com/package/@sapphire/ratelimits)
 [![npm](https://img.shields.io/npm/v/@sapphire/ratelimits?color=crimson&logo=npm&style=flat-square&label=@sapphire/stopwatch)](https://www.npmjs.com/package/@sapphire/stopwatch)
-[![npm](https://img.shields.io/npm/v/@sapphire/string-store?color=crimson&logo=npm&style=flat-square&label=@sapphire/string-store)](https://www.npmjs.com/package/@sapphire/string-store)
 [![npm](https://img.shields.io/npm/v/@sapphire/snowflake?color=crimson&logo=npm&style=flat-square&label=@sapphire/snowflake)](https://www.npmjs.com/package/@sapphire/snowflake)
+[![npm](https://img.shields.io/npm/v/@sapphire/string-store?color=crimson&logo=npm&style=flat-square&label=@sapphire/string-store)](https://www.npmjs.com/package/@sapphire/string-store)
 [![npm](https://img.shields.io/npm/v/@sapphire/time-utilities?color=crimson&logo=npm&style=flat-square&label=@sapphire/time-utilities)](https://www.npmjs.com/package/@sapphire/time-utilities)
 [![npm](https://img.shields.io/npm/v/@sapphire/ts-config?color=crimson&logo=npm&style=flat-square&label=@sapphire/ts-config)](https://www.npmjs.com/package/@sapphire/ts-config)
 [![npm](https://img.shields.io/npm/v/@sapphire/utilities?color=crimson&logo=npm&style=flat-square&label=@sapphire/utilities)](https://www.npmjs.com/package/@sapphire/utilities)
-[![npm](https://img.shields.io/npm/v/@sapphire/phisherman?color=crimson&logo=npm&style=flat-square&label=@sapphire/phisherman)](https://www.npmjs.com/package/@sapphire/phisherman)
 
 </div>
 

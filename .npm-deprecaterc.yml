@@ -9,6 +9,7 @@ package:
   - '@sapphire/eslint-config'
   - '@sapphire/event-iterator'
   - '@sapphire/fetch'
+  - '@sapphire/phisherman'
   - '@sapphire/prettier-config'
   - '@sapphire/ratelimits'
   - '@sapphire/snowflake'
@@ -16,4 +17,4 @@ package:
   - '@sapphire/time-utilities'
   - '@sapphire/ts-config'
   - '@sapphire/utilities'
-  - '@sapphire/phisherman'
+  - '@sapphire/string-store'

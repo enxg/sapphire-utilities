@@ -3,13 +3,14 @@
 /packages/discord.js-utilities/src/**/*.ts @kyranet @realshadownova @favna
 /packages/eslint-config/**/*.ts @favna
 /packages/event-iterator/**/*.ts @kyranet
+/packages/fetch/**/*.ts @favna @kyranet
+/packages/phisherman/**/*.ts @undiedgamer
 /packages/prettier-config/**/*.ts @favna
 /packages/ratelimits/**/*.ts @kyranet @vladfrangu
 /packages/snowflake/**/*.ts @favna @vladfrangu @kyranet
 /packages/stopwatch/**/*.ts @Stitch07 @kyranet @vladfrangu
+/packages/string-store**/*.ts @kyranet
 /packages/time-utilities/**/*.ts @favna @Stitch07 @kyranet
 /packages/ts-config/**/*.ts @favna
 /packages/type/**/*.ts @kyranet
 /packages/utilities/**/*.ts @favna @kyranet @vladfrangu
-/packages/fetch/**/*.ts @favna @kyranet
-/packages/phisherman/**/*.ts @undiedgamer

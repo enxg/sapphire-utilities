@@ -22,7 +22,7 @@
 		"prepublishOnly": "yarn build"
 	},
 	"dependencies": {
-		"tslib": "2.x"
+		"tslib": "^2.3.1"
 	},
 	"repository": {
 		"type": "git",
@@ -34,8 +34,8 @@
 		"!dist/*.tsbuildinfo"
 	],
 	"engines": {
-		"node": ">=12",
-		"npm": ">=6"
+		"node": ">=v14.0.0",
+		"npm": ">=7.0.0"
 	},
 	"keywords": [
 		"@sapphire/string-store",
@@ -45,7 +45,8 @@
 		"yarn",
 		"discord",
 		"sapphire",
-		"standalone"
+		"standalone",
+		"compression"
 	],
 	"bugs": {
 		"url": "https://github.com/sapphiredev/utilities/issues"
