@@ -21,7 +21,6 @@
 -   [Installation](#installation)
 -   [Usage](#usage)
     -   [Basic Usage](#basic-usage)
--   [API Documentation](#api-documentation)
 -   [Buy us some doughnuts](#buy-us-some-doughnuts)
 -   [Contributors ✨](#contributors-%E2%9C%A8)
 
